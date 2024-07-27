@@ -1,0 +1,15 @@
+.header{
+    font-weight: 800;
+    background-color: grey;   
+}
+
+.celebryta {
+   display:block; 
+   width:200px;
+   height:200px;
+}
+
+.omnie{
+   font-weight: 800;
+   color: blue;
+}
